@@ -1,0 +1,60 @@
+{
+	"albumData": [
+		{
+			"id": 1,
+			"albumName": "(UNTITLED)",
+			"price": 31,
+			"releaseDate": "MAY 17, 2019",
+			"img": "https://upload.wikimedia.org/wikipedia/en/1/16/Rammstein_-_Rammstein.png",
+			"details": "It all began in May 2015. Rammstein is taking a break and Till launches his solo project Lindemann. During an interview, he said that Rammstein will meet in September 2015 to start composing. Indeed, in October 2015, the official website posts a photo of the band improvising in Christoph Schneider's personal studio. The album is on its way!"
+		},
+		{
+			"id": 2,
+			"albumName": "ALBUM LIEBE IST FÜR ALLE DA",
+			"price": 29,
+			"releaseDate": " OCT 16, 2009",
+			"img": "https://img.discogs.com/BWxXhEDBIcCGA2VjBbZcaUCGcYY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1979263-1256471823.jpeg.jpg",
+			"details": "Music & Lyrics by Rammstein : Christoph Schneider, Doktor Christian Lorenz, Till Lindemann, Paul Landers, Richard Z. Kruspe, Oliver Riedel.Copyright controlled by Rammstein (Gema).Produced by Jacob Hellner with Rammstein.Engineered by Ulf Kruckenberg and Florian Ammon.Mixed by Stefan Glaumann at Toytown Studios, Stockholm."
+		},
+		{
+			"id": 3,
+			"albumName": "ROSENROT",
+			"price": 24,
+			"releaseDate": "OCT 28, 2005",
+			"img": "https://www.vinyloveplatne.sk/fotky4961/fotos/_vyr_9454_0602527296753.jpg",
+			"details": "Music & lyrics by Rammstein: Christoph Schneider, Doktor Christian Lorenz, Till Lindemann, Paul Landers, Richard Z. Kruspe, Oliver RiedelTrack 6 featuring Sharleen Spiteri.Produced by Jacob Hellner with Rammstein.Recorded at El Cortijo studio/Malaga, Teldex studio Berlin and studios 301/ Stockholm // Add. recordings at studio."
+		},
+		{
+			"id": 4,
+			"albumName": "REISE, REISE",
+			"price": 27,
+			"releaseDate": "SEP 27, 2004",
+			"img": "https://img.discogs.com/CTpZtbr5YFPvNS1ic6os1Ad65O4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-334207-1258833159.jpeg.jpg",
+			"details": "Produced by Jacob Hellner with Rammstein.Recorded at El Cortijo studio, Malaga, Spain.Drums recorded at studios 301, Stockholm, Sweden.Engineered by Ulf Kruckenberg.Logic & protools programming by Florian Ammon.Mixed by Stefan Glaumann at Toytown studio Stockholm, Sweden.Mastered by Howie Weinberg at Masterdisk corporation, New York, USA."
+		},
+		{
+			"id": 5,
+			"albumName": "MUTTER",
+			"price": 35,
+			"releaseDate": "APR 2, 2001",
+			"img": "https://rammwiki.net/w/images/thumb/6/62/Mutter_Cover.jpg/300px-Mutter_Cover.jpg",
+			"details": "Produced by Jacob Hellner with RammsteinMixed by Stefan Glaumann at MVG Studio Stockholm, SwedenRecorded at Studio Miraval, FranceEngineered by Ulf KruckenbergLogic & Protools programming by Florian AmmonMastered by Howie Weinberg at Masterdisk Corperation, New YorkPre-Production at Haus Weimar, Heiligendamm, GermanyAdditional recordings at Nukleus Studio."
+		},
+		{
+			"id": 6,
+			"albumName": "SEHNSUCHT",
+			"price": 35,
+			"releaseDate": "AUG 22, 1997",
+			"img": "https://i.pinimg.com/600x315/b4/3d/47/b43d47236a9973461f164fc947f2aff7.jpg",
+			"details": "Music & lyrics by RAMMSTEIN.Produced by Jacob Hellner with RAMMSTEIN.Mixed by Ronald Prent.Programming by RAMMSTEIN.Additional programming by Marc Stagg.Female voice by Bobo.Portrait photography by Gottfried Helnwein.Landscape by Premium Stock Photography.FranceEngineered by Ulf KruckenbergLogic & Protools programming by Florian AmmonMastered by Howie Weinberg ."
+		},
+		{
+			"id": 7,
+			"albumName": "HERZELEID",
+			"price": 35,
+			"releaseDate": "SEP 25, 1995",
+			"img": "https://img.discogs.com/Wg9G9xdFCf5F22iFSRfQl-z9lMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9369824-1558112199-3013.jpeg.jpg",
+			"details": "Music & Lyrics by RAMMSTEIN.Produced by Jacob Hellner & Carl-Michael Herlöffson for BomKrash Production.Mixed by Ronald Prent at Chateau du pape.For - Seemann - additional production by Emanuel Fialik & Olav Bruhn.Management: Emanuel Fialik for Pilgrim.Produced by Jacob Hellner with Rammstein.Recorded at El Cortijo studio/Malaga."
+		}
+	]
+}
