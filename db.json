@@ -46,7 +46,7 @@
 			"price": 35,
 			"releaseDate": "AUG 22, 1997",
 			"img": "https://i.pinimg.com/600x315/b4/3d/47/b43d47236a9973461f164fc947f2aff7.jpg",
-			"details": "Music & lyrics by RAMMSTEIN.Produced by Jacob Hellner with RAMMSTEIN.Mixed by Ronald Prent.Programming by RAMMSTEIN.Additional programming by Marc Stagg.Female voice by Bobo.Portrait photography by Gottfried Helnwein.Landscape by Premium Stock Photography.FranceEngineered by Ulf KruckenbergLogic & Protools programming by Florian AmmonMastered by Howie Weinberg ."
+			"details": "Music & lyrics by RAMMSTEIN.Produced by Jacob Hellner with RAMMSTEIN.Mixed by Ronald Prent.Programming by RAMMSTEIN.Additional programming by Marc Stagg.Female voice by Bobo.Portrait photography by Gottfried Helnwein.Landscape by Premium Stock Photography.FranceEngineered by Ulf KruckenbergLogic && Protools programming by Florian AmmonMastered by Howie Weinberg ."
 		},
 		{
 			"id": 7,
@@ -68,7 +68,7 @@
 			"weight": "90 kg ",
 			"eye_color": "blue/green ",
 			"hair_color": "black",
-			"distinguishing features": "pierced ears; piercings; scars",
+			"distinguishing_features": "pierced ears; piercings; scars",
 			"usual_spot_on_stage": "front middle",
 			"former_band": "First Arsch (drummer)",
 			"img": "https://allcelebwikis.com/wp-content/uploads/2021/07/Till-Lindemann-300x300.jpg"
@@ -83,7 +83,7 @@
 			"weight": "79 kg ",
 			"eye_color": "blue/grey",
 			"hair_color": "brown",
-			"distinguishing features": "pierced ears; tatooes",
+			"distinguishing_features": "pierced ears; tatooes",
 			"usual_spot_on_stage": "front left",
 			"former_band": "Die Firma; Feeling B",
 			"img": "https://mediamass.net/jdd/public/documents/celebrities/7042.jpg"
@@ -98,7 +98,7 @@
 			"weight": "84 kg",
 			"eye_color": "blue",
 			"hair_color": "brown",
-			"distinguishing features": "N/A",
+			"distinguishing_features": "N/A",
 			"usual_spot_on_stage": "rear middle",
 			"former_band": "Die Firma; Feeling B",
 			"img": "https://lsinsight.org/wp-content/uploads/2018/01/christoph-schneider.jpg"
@@ -128,7 +128,7 @@
 			"weight": "73 kg",
 			"eye_color": "blue",
 			"hair_color": "brown",
-			"distinguishing features": "tatoo",
+			"distinguishing_features": "tatoo",
 			"usual_spot_on_stage": "rear right",
 			"former_band": "Feeling B",
 			"img": "https://mediamass.net/jdd/public/documents/celebrities/7045.jpg"
@@ -143,7 +143,7 @@
 			"weight": "88 kg",
 			"eye_color": "blue",
 			"hair_color": "black",
-			"distinguishing features": "pierced ears; smokes",
+			"distinguishing_features": "pierced ears; smokes",
 			"usual_spot_on_stage": "front right",
 			"former_band": "Orgasm Death Gimmicks",
 			"img": "https://mediamass.net/jdd/public/documents/celebrities/7041.jpg"
